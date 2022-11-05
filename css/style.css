@@ -428,7 +428,7 @@ section .title::after{
 .phone_s{
     border-radius: 12px;
     padding-top: 2px;
-   opacity: 0;
+   /* opacity: 0; */
     transition: all 1.3s ;
 }
 
@@ -441,9 +441,12 @@ section .title::after{
 
 .phone_s h1{
     width: 290px;
-    border-radius: 8px;
-    color: #000;
+    border-radius: 20px;
+    /* color: #000; */
 }
+
+
+
 
 .phone_r h1{
     background: #2c3f79;
